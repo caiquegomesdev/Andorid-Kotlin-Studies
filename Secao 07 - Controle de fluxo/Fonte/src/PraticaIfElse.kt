@@ -46,3 +46,5 @@ fun ex3() {
     println(a || ((!b && c) || !d))
 }
 
+fun main() {
+}
